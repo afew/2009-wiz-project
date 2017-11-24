@@ -1,0 +1,167 @@
+Microsoft Developer Studio Workspace File, Format Version 6.00
+# WARNING: DO NOT EDIT OR DELETE THIS WORKSPACE FILE!
+
+###############################################################################
+
+Project: "00DGE_SDK"=.\00DGE_SDK.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+	Begin Project Dependency
+    Project_Dep_Name 01dgeinc
+    End Project Dependency
+	
+	Begin Project Dependency
+    Project_Dep_Name 02lua503
+    End Project Dependency
+
+	Begin Project Dependency
+    Project_Dep_Name 02WinOpenAlw
+    End Project Dependency
+
+	Begin Project Dependency
+    Project_Dep_Name 11dge20
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name 12dgx20
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name 13dgt20
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "01dgeinc"=.\01dgeinc\01dgeinc.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "02lua503"=.\02lua503\02lua503.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "02WinOpenAlc"=.\02WinOpenAlc\02WinOpenAlc.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "02WinOpenAlu"=.\02WinOpenAlu\02WinOpenAlu.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "02WinOpenAlut"=.\02WinOpenAlut\02WinOpenAlut.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "02WinOpenAlw"=.\02WinOpenAlw\02WinOpenAlw.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name 02WinOpenAlc
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name 02WinOpenAlu
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name 02WinOpenAlut
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "11dge20"=.\11dge20\11dge20.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "12dgx20"=.\12dgx20\12dgx20.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "13dgt20"=.\13dgt20\13dgt20.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Global:
+
+Package=<5>
+{{{
+}}}
+
+Package=<3>
+{{{
+}}}
+
+###############################################################################
+
